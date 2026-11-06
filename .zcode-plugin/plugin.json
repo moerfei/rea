@@ -1,0 +1,30 @@
+{
+  "name": "rea",
+  "displayName": "REA 逆向工程",
+  "displayName_i18n": {
+    "en": "REA Reverse Engineering",
+    "zh-CN": "REA 逆向工程"
+  },
+  "version": "6.8.0",
+  "description": "Reverse Engineer Anything: local MCP server bridging AI agents to reverse-engineering analysis (native binaries via Ghidra/Hopper/IDA, Electron/JavaScript, Android APK/devices, firmware, EVM bytecode, HAR captures, crash dumps) and AgentEnv bundles built from live captures, plus the reverse-engineer-anything investigation skill. Skills and MCP from morluto/rea (MIT).",
+  "description_i18n": {
+    "en": "REA (Reverse Engineer Anything): local MCP server bridging agents to RE analysis of native binaries, Electron/JS apps, Android, firmware, EVM, crash dumps, and AgentEnv bundles from live captures, with the reverse-engineer-anything skill. Source: morluto/rea (MIT).",
+    "zh-CN": "【安全研究】REA（Reverse Engineer Anything）：本地 MCP 服务桥接逆向分析引擎（Ghidra/Hopper/IDA 原生二进制、Electron/JS、Android、固件、EVM 字节码、HAR 抓包、崩溃转储），并可从实时抓取构建 AgentEnv 环境包，附 reverse-engineer-anything 调查技能。源自 morluto/rea（MIT），仅用于合法授权的逆向研究。"
+  },
+  "author": {
+    "name": "mojun",
+    "url": "https://github.com/morluto/rea"
+  },
+  "keywords": [
+    "reverse-engineering",
+    "mcp",
+    "rea",
+    "ghidra",
+    "ida",
+    "hopper",
+    "decompile",
+    "android",
+    "firmware",
+    "逆向"
+  ]
+}
